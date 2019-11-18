@@ -1,2 +1,2 @@
 # RHCSA
-preparation notes  different RHEL Exams
+preparation notes for different RHEL Exams
