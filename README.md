@@ -1,2 +1,2 @@
 # RHCSA
-preparation notes for EX200 exam
+preparation notes  different RHEL Exams
